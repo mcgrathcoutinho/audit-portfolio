@@ -2,9 +2,9 @@
 
 ## About McGrath
 
-I'm an independent security researcher specializing in smart contract security
+I'm an independent security researcher specializing in smart contract security.
 
-Currently, I am a warden on [Code4rena](https://code4rena.com/)
+Currently, I am a warden on [Code4rena](https://code4rena.com/).
 
 For private security reviews or consulting, please reach out to me on:
  - Twitter - [@McgrathCoutinho](https://twitter.com/McgrathCoutinho)

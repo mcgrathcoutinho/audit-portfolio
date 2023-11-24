@@ -18,7 +18,7 @@ In case you prefer a intermediary, you can request a quote on [Code4rena](https:
 
 | Contests                      | Protocol Type                         | Ranking | Report |
 |-------------------------------|---------------------------------------|---------|--------|
-| OpenDollar                    | Lending, NFT                          | 2nd     |        |
-| Chainlink CCIP Administration | Cross-chain administration, Multi-sig | 5th     |        |
-| Maia DAO - Ulysses            | Cross-chain communication, Bridge     | 6th     |        |
-| Canto veRWA                   | Voting, Real World Assets (RWA)       | 10th    |        |
+| [OpenDollar](https://code4rena.com/contests/2023-10-open-dollar#top)                    | Lending, NFT                          | 2nd     |        |
+| [Chainlink CCIP Administration](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | Cross-chain administration, Multi-sig | 5th     |        |
+| [Maia DAO - Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top)            | Cross-chain communication, Bridge     | 6th     |        |
+| [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                   | Voting, Real World Assets (RWA)       | 10th    |        |

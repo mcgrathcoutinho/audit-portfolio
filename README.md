@@ -10,7 +10,7 @@ For private security reviews or consulting, please reach out to me on:
  - Twitter - [@McgrathCoutinho](https://twitter.com/McgrathCoutinho)
  - Discord - [@mrpotatomagic](https://discord.com/users/763818501004722187)
 
-In case you prefer a intermediary, you can request a quote on [Code4rena](https://code4rena.com/@MrPotatoMagic) or [Cantina](https://cantina.xyz/u/MrPotatoMagic)
+In case you prefer an intermediary, you can request a quote on [Code4rena](https://code4rena.com/@MrPotatoMagic) or [Cantina](https://cantina.xyz/u/MrPotatoMagic).
 
 ## Audit Contests
 

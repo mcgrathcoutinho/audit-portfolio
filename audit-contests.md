@@ -2,9 +2,11 @@
 
 ## Code4rena
 
-**H = High-Severity issue
-M = Medium-Severity issue
-L = Low-severity issue**
+**H = High-Severity issue**
+
+**M = Medium-Severity issue**
+
+**L = Low-severity issue**
 
 | Contest                       | Findings    | Ranking | Report |
 |-------------------------------|-------------|---------|--------|

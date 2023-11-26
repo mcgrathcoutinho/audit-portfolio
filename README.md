@@ -14,7 +14,7 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 
 ## Audit Contests
 
-**Reports for all audit contests can be found here**
+**Reports for all audit contests can be found [here](./audit-contests.md)**
 
 | Contests                                                                                                                                                                     | Protocol Type                         | Ranking | Report                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|---------|--------------------------------------------------|

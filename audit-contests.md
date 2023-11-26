@@ -18,5 +18,5 @@
 | [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                                                                                                              | 2H, 5L      | #10     |        |
 | [Axelar Network](https://code4rena.com/contests/2023-07-axelar-network#top)                                                                                                  | 3L          | #22     |        |
 | [Chainlink CCIP Administration](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | 3L          | #5      |        |
-| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top)                                                                                                    | 1M, 6L      | #20     |        |
+| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top)                                                                                                    | 1M, 5L      | #20     |        |
 | Overall                                                                                                                                                                      | 3H, 8M, 45L |         |        |

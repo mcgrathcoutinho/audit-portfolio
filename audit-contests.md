@@ -11,7 +11,7 @@
 | Contest                                                                                                                                                                      | Findings    | Ranking | Report |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------|--------|
 | [OpenDollar](https://code4rena.com/contests/2023-10-open-dollar#top)                                                                                                         | 4M, 7L      | #2      |        |
-| [ENS](https://code4rena.com/contests/2023-10-ens#top)                                                                                                                        | 1L          | #13     |        |
+| [ENS](https://code4rena.com/contests/2023-10-ens#top)                                                                                                                        | 1L          | #13     |  [Link](./code4rena/2023-09-maia.md)      |
 | [Maia DAO - Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top)                                                                                            | 1H, 1M, 8L  | #6      |        |
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top)                                                                                   | 2M, 6L      | #23     |        |
 | [Shell Protocol](https://code4rena.com/contests/2023-08-shell-protocol#top)                                                                                                  | 5L          | #16     |  [Link](./code4rena/2023-08-shell.md)      |

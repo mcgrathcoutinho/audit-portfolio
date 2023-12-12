@@ -7,7 +7,7 @@ I'm an independent security researcher specializing in smart contract security.
 Currently, I am a warden on [Code4rena](https://code4rena.com/), where I've disclosed 3 High-severity and 8 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
 
 For private security reviews or consulting, please reach out to me on:
- - Twitter - [@McgrathCoutinho](https://twitter.com/MrPotatoMagic)
+ - Twitter - [@MrPotatoMagic](https://twitter.com/MrPotatoMagic)
  - Discord - [@mrpotatomagic](https://discord.com/users/763818501004722187)
 
 In case you prefer an intermediary, you can request a quote on [Code4rena](https://code4rena.com/@MrPotatoMagic) or [Cantina](https://cantina.xyz/u/MrPotatoMagic).

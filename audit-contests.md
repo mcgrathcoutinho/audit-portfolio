@@ -10,6 +10,7 @@
 
 | Contest                                                                                                                                                                      | Findings    | Ranking | Report                                |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------|---------------------------------------|
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)                                                                                                                  | 3H, 1M, 2L  | #7      |                                       |
 | [Canto ASD and Bonding Curves](https://code4rena.com/contests/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top)                                   | 5L          | #20     |                                       |
 | [OpenDollar](https://code4rena.com/contests/2023-10-open-dollar#top)                                                                                                         | 4M, 7L      | #2      |                                       |
 | [ENS](https://code4rena.com/contests/2023-10-ens#top)                                                                                                                        | 1L          | #13     | [Link](./code4rena/2023-10-ens.md)    |
@@ -20,4 +21,4 @@
 | [Axelar Network](https://code4rena.com/contests/2023-07-axelar-network#top)                                                                                                  | 3L          | #22     | [Link](./code4rena/2023-07-axelar.md) |
 | [Chainlink CCIP Administration](https://code4rena.com/contests/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | 3L          | #5      |                                       |
 | [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top)                                                                                                    | 1M, 5L      | #20     | [Link](./code4rena/2023-06-lybra.md)  |
-| Overall                                                                                                                                                                      | 3H, 8M, 49L |         |                                       |
+| Overall                                                                                                                                                                      | 6H, 9M, 51L |         |                                       |

@@ -1,12 +1,29 @@
-# 2023
-
-## Code4rena
-
 **H = High-Severity issue**
 
 **M = Medium-Severity issue**
 
 **L = Low-severity issue**
+
+# 2024
+
+## Code4rena
+
+| Contests                                                  | Findings   | Ranking | Report |
+|-----------------------------------------------------------|------------|---------|--------|
+| [Decent](https://code4rena.com/audits/2024-01-decent#top) | 3H, 2M     | #9      |        |
+| [Curves](https://code4rena.com/audits/2024-01-curves#top) | 2H, 3M, 9L | #19     |        |
+| Overall                                                   | 5H, 5M, 9L |         |        |
+
+## Codehawks
+
+| Contests                                                                   | Findings | Ranking | Report |
+|----------------------------------------------------------------------------|----------|---------|--------|
+| [MorpheusAI](https://www.codehawks.com/contests/clrzgrole0007xtsq0gfdw8if) | 1H, 3L   | #4      |        |
+| Overall                                                                    | 1H, 3L   |         |        |
+
+# 2023
+
+## Code4rena
 
 | Contest                                                                                                                                                                      | Findings     | Ranking | Report                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------|-------------------------------------------|

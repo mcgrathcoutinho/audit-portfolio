@@ -18,7 +18,7 @@
 
 | Contests                                                                   | Findings | Ranking | Report |
 |----------------------------------------------------------------------------|----------|---------|--------|
-| [MorpheusAI](https://www.codehawks.com/contests/clrzgrole0007xtsq0gfdw8if) | 1H, 3L   | #4      |        |
+| [MorpheusAI](https://www.codehawks.com/contests/clrzgrole0007xtsq0gfdw8if) | 1H, 3L   | #4      |  [Link](./codehawks/2024-01-morpheusai.md)      |
 | Overall                                                                    | 1H, 3L   |         |        |
 
 # 2023

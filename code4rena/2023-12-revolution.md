@@ -1,6 +1,6 @@
 # Revolution Protocol
 
-![https://pbs.twimg.com/profile_images/1732085233049042945/jAIo-aSx_400x400.jpg]
+![](https://pbs.twimg.com/profile_images/1732085233049042945/jAIo-aSx_400x400.jpg)
 
 ## Scope 
 

@@ -8,11 +8,12 @@
 
 ## Code4rena
 
-| Contests                                                  | Findings   | Ranking | Report |
-|-----------------------------------------------------------|------------|---------|--------|
-| [Decent](https://code4rena.com/audits/2024-01-decent#top) | 3H, 2M     | #9      |        |
-| [Curves](https://code4rena.com/audits/2024-01-curves#top) | 2H, 3M, 9L | #17     |        |
-| Overall                                                   | 5H, 5M, 9L |         |        |
+| Contests                                                                                              | Findings    | Ranking | Report |
+|-------------------------------------------------------------------------------------------------------|-------------|---------|--------|
+| [Althea Liquid Infrastructure](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | 1H, 4L      | #7      |        |
+| [Decent](https://code4rena.com/audits/2024-01-decent#top)                                             | 3H, 2M      | #9      |        |
+| [Curves](https://code4rena.com/audits/2024-01-curves#top)                                             | 2H, 3M, 9L  | #17     |        |
+| Overall                                                                                               | 6H, 5M, 13L |         |        |
 
 ## Codehawks
 

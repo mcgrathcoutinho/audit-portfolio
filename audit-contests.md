@@ -8,13 +8,14 @@
 
 ## Code4rena
 
-| Contests                                                                                              | Findings     | Ranking | Report |
-|-------------------------------------------------------------------------------------------------------|--------------|---------|--------|
-| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top)                                         | 8H, 4M, 19L  | #10     |        |
-| [Althea Liquid Infrastructure](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | 1H, 4L       | #7      |        |
-| [Decent](https://code4rena.com/audits/2024-01-decent#top)                                             | 3H, 2M       | #9      |   [Link](./code4rena/2024-01-decent.md)     |
-| [Curves](https://code4rena.com/audits/2024-01-curves#top)                                             | 2H, 3M, 9L   | #17     |        |
-| Overall                                                                                               | 14H, 9M, 32L |         |        |
+| Contests                                                                                              | Findings      | Ranking | Report                                |
+|-------------------------------------------------------------------------------------------------------|---------------|---------|---------------------------------------|
+| [Taiko](https://code4rena.com/audits/2024-03-taiko#top)                                               | 2H, 2M, 23L   | #5      |                                       |
+| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top)                                         | 8H, 4M, 19L   | #10     |                                       |
+| [Althea Liquid Infrastructure](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | 1H, 4L        | #7      |                                       |
+| [Decent](https://code4rena.com/audits/2024-01-decent#top)                                             | 3H, 2M        | #9      | [Link](./code4rena/2024-01-decent.md) |
+| [Curves](https://code4rena.com/audits/2024-01-curves#top)                                             | 2H, 3M, 9L    | #17     |                                       |
+| Overall                                                                                               | 16H, 11M, 55L |         |                                       |
 
 ## Codehawks
 

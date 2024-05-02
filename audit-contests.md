@@ -10,7 +10,7 @@
 
 | Contests                                                                                              | Findings      | Ranking | Markdown Report                       | PDF Report |
 |-------------------------------------------------------------------------------------------------------|---------------|---------|---------------------------------------|------------|
-| [Taiko](https://code4rena.com/audits/2024-03-taiko#top)                                               | 2H, 2M, 23L   | #5      |                                       |            |
+| [Taiko](https://code4rena.com/audits/2024-03-taiko#top)                                               | 2H, 2M, 23L   | #5      |           [Link](./code4rena/2024-03-taiko.md)                            |   [Link](./code4rena/2024-03-taiko.pdf)         |
 | [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top)                                         | 8H, 4M, 19L   | #10     |                                       |            |
 | [Althea Liquid Infrastructure](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | 1H, 4L        | #7      |       [Link](./code4rena/2024-02-althea.md)                                |  [Link](./code4rena/2024-02-althea.pdf)          |
 | [Decent](https://code4rena.com/audits/2024-01-decent#top)                                             | 3H, 2M        | #9      | [Link](./code4rena/2024-01-decent.md) |   [Link](./code4rena/2024-01-decent.pdf)         |

@@ -29,3 +29,7 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 | [Decent](https://code4rena.com/audits/2024-01-decent#top)                                                                                                                    | Cross-chain bridge, LayerZero                    | 9th     | [Link](./code4rena/2024-01-decent.md)     |   [Link](./code4rena/2024-01-decent.pdf)         |
 | [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top)                                                                                                                | AI Gaming, NFT, Staking                          | 10th    |                                           |            |
 | [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                                                                                                              | Voting, Real World Assets (RWA)                  | 10th    | [Link](./code4rena/2023-08-verwa.md)      |   [Link](./code4rena/2023-08-verwa.pdf)         |
+
+## Other Performances
+
+ - [Placed 1st in Secureum's CAREX Runtime Verification workshop](https://x.com/MrPotatoMagic/status/1779934145554399516)

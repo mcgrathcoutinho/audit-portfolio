@@ -14,49 +14,49 @@ In this contest, I discovered all of the high-severity issues (8 out of 8) and h
 
 | ID     | Issues                                                                                                                                    | Severity     |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| [H-01] | Users can hold fighter NFTs greater than the maximum allowance of 10                                                                      | High         |
-| [H-02] | Permanent DOS of fighter creation/rerolling if generation is incremented for a fighterType                                                | High         |
-| [H-03] | Attacker can use 1 wei of NRN to receive the same staking factor as users staking 3.99 NRN                                                | High         |
-| [H-04] | Attacker can claim more fighter NFTs due to reentrancy in claimRewards() function                                                         | High         |
-| [H-05] | Non-transferrable game items can be transferred using safeBatchTransferFrom()                                                             | High         |
-| [H-06] | Missing validation in redeemMintPass() allows gamer to obtain any fighter type and custom attributes                                      | High         |
-| [H-07] | Fighter NFTs with tokenIds greater than 255 cannot reroll                                                                                 | High         |
-| [H-08] | Users can use more rerolls than provided for their fighterType NFT                                                                        | High         |
-| [M-01] | Flawed maximum fighters allowed system allows users to hold more NFTs in temporary accounts                                               | Medium       |
-| [M-02] | Nested for loops in function claimRewards() can DOS due to OOG exception                                                                  | Medium       |
-| [M-03] | Function claimRewards() does not check if the custom attribute values for weight and element fall in range [65,95] and [0,2] respectively | Medium       |
-| [M-04] | Consider passing bool as value to function setAllowedBurningAddresses()                                                                   | Medium       |
-| [L-01] | 0 value function calls can spam off-chain tracking system                                                                                 | Low          |
-| [L-02] | Function spendVoltage() only allows spending 255 voltage maximum                                                                          | Low          |
-| [L-03] | Avoid hardcoding tokenId 0 for battery game item                                                                                          | Low          |
-| [L-04] | Owner address is not provided admin access on transferOwnership()                                                                         | Low          |
-| [L-05] | Admin access of previous owner is not revoked when ownership is transferred                                                               | Low          |
-| [L-06] | Function updateFighterStaking() is not updated if user loses all his stake and round ends                                                 | Low          |
-| [L-07] | Incorrect use of `<` instead of `<=` allows minting maximum of 1 NRN token less than expected total supply of 1 billion                   | Low          |
-| [L-08] | Consider pausing/access controlling function burn() initially for a guarded launch                                                        | Low          |
-| [L-09] | Transferring/selling Fighter NFT before winners are picked causes loss of reward NFT to previous owner                                    | Low          |
-| [L-10] | Attacker can reroll the Fighter NFT before buyer buys it on a marketplace                                                                 | Low          |
-| [L-11] | Multiple problems with getFighterPoints() causes admin to be unable to pick winners directly                                              | Low          |
-| [L-12] | ID substitution mechanism is not implemented for tokenIds having customURI length equal to 0                                              | Low          |
-| [L-13] | Attacker can artificially inflate numTrained for his fighterType                                                                          | Low          |
-| [L-14] | The owner of a tokenId can use up all rerolls before selling it on a marketplace                                                          | Low          |
-| [L-15] | Attacker can intentionally DOS user's max capacity by sending fighters from multiple accounts created                                     | Low          |
-| [L-16] | Consider spreading out probabilities for iconTypes                                                                                        | Low          |
-| [L-17] | Ensure sum of all probabilities of a specific attribute is always 100                                                                     | Low          |
-| [L-18] | Missing globalStakedAmount update in _addResultPoints() breaks core invariant of RankedBattle contract                                    | Low          |
-| [N-01] | No need to initialize roundId to 0                                                                                                        | Non-Critical |
-| [N-02] | Consider using msg.sender instead of passing _ownerAddress as parameter in the constructor                                                | Non-Critical |
-| [N-03] | Missing event emission when transferring ownership                                                                                        | Non-Critical |
-| [N-04] | OZ recommends using _grantRole() instead of deprecated _setupRole() function                                                              | Non-Critical |
-| [N-05] | Do not decrease allowance if allowance is set to type(uint256).max                                                                        | Non-Critical |
-| [N-06] | Incorrect logical natspec comment should be corrected                                                                                     | Non-Critical |
-| [N-07] | setTokenURI() function does not check if tokenId exists                                                                                   | Non-Critical |
-| [N-08] | Do not hardcode string in function contractURI()                                                                                          | Non-Critical |
-| [N-09] | In 83 years, typecast to uint32 would break in function _replenishDailyAllowance()                                                        | Non-Critical |
-| [N-10] | Function viewFighterInfo() does not return every data of the fighter                                                                      | Non-Critical |
-| [N-11] | Reroll cost of 1000 NRN cannot be changed in the future                                                                                   | Non-Critical |
-| [N-12] | There can only be 255 generations following which incrementGeneration() would revert                                                      | Non-Critical |
-| [N-13] | Do not hardcode generation to 0 in constructor                                                                                            | Non-Critical |
+| [H-01](#h-01-users-can-hold-fighter-nfts-greater-than-the-maximum-allowance-of-10) | Users can hold fighter NFTs greater than the maximum allowance of 10                                                                      | High         |
+| [H-02](#h-02-permanent-dos-of-fighter-creationrerolling-if-generation-is-incremented-for-a-fightertype) | Permanent DOS of fighter creation/rerolling if generation is incremented for a fighterType                                                | High         |
+| [H-03](#h-03-attacker-can-use-1-wei-of-nrn-to-receive-the-same-staking-factor-as-users-staking-399-nrn) | Attacker can use 1 wei of NRN to receive the same staking factor as users staking 3.99 NRN                                                | High         |
+| [H-04](#h-04-attacker-can-claim-more-fighter-nfts-due-to-reentrancy-in-claimrewards-function) | Attacker can claim more fighter NFTs due to reentrancy in claimRewards() function                                                         | High         |
+| [H-05](#h-05-non-transferrable-game-items-can-be-transferred-using-safebatchtransferfrom) | Non-transferrable game items can be transferred using safeBatchTransferFrom()                                                             | High         |
+| [H-06](#h-06-missing-validation-in-redeemmintpass-allows-gamer-to-obtain-any-fighter-type-and-custom-attributes) | Missing validation in redeemMintPass() allows gamer to obtain any fighter type and custom attributes                                      | High         |
+| [H-07](#h-07-fighter-nfts-with-tokenids-greater-than-255-cannot-reroll) | Fighter NFTs with tokenIds greater than 255 cannot reroll                                                                                 | High         |
+| [H-08](#h-08-users-can-use-more-rerolls-than-provided-for-their-fightertype-nft) | Users can use more rerolls than provided for their fighterType NFT                                                                        | High         |
+| [M-01](#m-01-flawed-maximum-fighters-allowed-system-allows-users-to-hold-more-nfts-in-temporary-accounts) | Flawed maximum fighters allowed system allows users to hold more NFTs in temporary accounts                                               | Medium       |
+| [M-02](#m-02-nested-for-loops-in-function-claimrewards-can-dos-due-to-oog-exception) | Nested for loops in function claimRewards() can DOS due to OOG exception                                                                  | Medium       |
+| [M-03](#m-03-function-claimrewards-does-not-check-if-the-custom-attribute-values-for-weight-and-element-fall-in-range-6595-and-02-respectively) | Function claimRewards() does not check if the custom attribute values for weight and element fall in range [65,95] and [0,2] respectively | Medium       |
+| [M-04](#m-04-consider-passing-bool-as-value-to-function-setallowedburningaddresses) | Consider passing bool as value to function setAllowedBurningAddresses()                                                                   | Medium       |
+| [L-01](#l-01-0-value-function-calls-can-spam-off-chain-tracking-system) | 0 value function calls can spam off-chain tracking system                                                                                 | Low          |
+| [L-02](#l-02-function-spendvoltage-only-allows-spending-255-voltage-maximum) | Function spendVoltage() only allows spending 255 voltage maximum                                                                          | Low          |
+| [L-03](#l-03-avoid-hardcoding-tokenid-0-for-battery-game-item) | Avoid hardcoding tokenId 0 for battery game item                                                                                          | Low          |
+| [L-04](#l-04-owner-address-is-not-provided-admin-access-on-transferownership) | Owner address is not provided admin access on transferOwnership()                                                                         | Low          |
+| [L-05](#l-05-admin-access-of-previous-owner-is-not-revoked-when-ownership-is-transferred) | Admin access of previous owner is not revoked when ownership is transferred                                                               | Low          |
+| [L-06](#l-06-function-updatefighterstaking-is-not-updated-if-user-loses-all-his-stake-and-round-ends) | Function updateFighterStaking() is not updated if user loses all his stake and round ends                                                 | Low          |
+| [L-07](#l-07-incorrect-use-of--instead-of--allows-minting-maximum-of-1-nrn-token-less-than-expected-total-supply-of-1-billion) | Incorrect use of `<` instead of `<=` allows minting maximum of 1 NRN token less than expected total supply of 1 billion                   | Low          |
+| [L-08](#l-08-consider-pausingaccess-controlling-function-burn-initially-for-a-guarded-launch) | Consider pausing/access controlling function burn() initially for a guarded launch                                                        | Low          |
+| [L-09](#l-09-transferringselling-fighter-nft-before-winners-are-picked-causes-loss-of-reward-nft-to-previous-owner) | Transferring/selling Fighter NFT before winners are picked causes loss of reward NFT to previous owner                                    | Low          |
+| [L-10](#l-10-attacker-can-reroll-the-fighter-nft-before-buyer-buys-it-on-a-marketplace) | Attacker can reroll the Fighter NFT before buyer buys it on a marketplace                                                                 | Low          |
+| [L-11](#l-11-multiple-problems-with-getfighterpoints-causes-admin-to-be-unable-to-pick-winners-directly) | Multiple problems with getFighterPoints() causes admin to be unable to pick winners directly                                              | Low          |
+| [L-12](#l-12-id-substitution-mechanism-is-not-implemented-for-tokenids-having-customuri-length-equal-to-0) | ID substitution mechanism is not implemented for tokenIds having customURI length equal to 0                                              | Low          |
+| [L-13](#l-13-attacker-can-artificially-inflate-numtrained-for-his-fightertype) | Attacker can artificially inflate numTrained for his fighterType                                                                          | Low          |
+| [L-14](#l-14-the-owner-of-a-tokenid-can-use-up-all-rerolls-before-selling-it-on-a-marketplace) | The owner of a tokenId can use up all rerolls before selling it on a marketplace                                                          | Low          |
+| [L-15](#l-15-attacker-can-intentionally-dos-users-max-capacity-by-sending-fighters-from-multiple-accounts-created) | Attacker can intentionally DOS user's max capacity by sending fighters from multiple accounts created                                     | Low          |
+| [L-16](#l-16-consider-spreading-out-probabilities-for-icontypes) | Consider spreading out probabilities for iconTypes                                                                                        | Low          |
+| [L-17](#l-17-ensure-sum-of-all-probabilities-of-a-specific-attribute-is-always-100) | Ensure sum of all probabilities of a specific attribute is always 100                                                                     | Low          |
+| [L-18](#l-18-missing-globalstakedamount-update-in-_addresultpoints-breaks-core-invariant-of-rankedbattle-contract) | Missing globalStakedAmount update in _addResultPoints() breaks core invariant of RankedBattle contract                                    | Low          |
+| [N-01](#n-01-no-need-to-initialize-roundid-to-0) | No need to initialize roundId to 0                                                                                                        | Non-Critical |
+| [N-02](#n-02-consider-using-msgsender-instead-of-passing-_owneraddress-as-parameter-in-the-constructor) | Consider using msg.sender instead of passing _ownerAddress as parameter in the constructor                                                | Non-Critical |
+| [N-03](#n-03-missing-event-emission-when-transferring-ownership) | Missing event emission when transferring ownership                                                                                        | Non-Critical |
+| [N-04](#n-04-oz-recommends-using-_grantrole-instead-of-deprecated-_setuprole-function) | OZ recommends using _grantRole() instead of deprecated _setupRole() function                                                              | Non-Critical |
+| [N-05](#n-05-do-not-decrease-allowance-if-allowance-is-set-to-typeuint256max) | Do not decrease allowance if allowance is set to type(uint256).max                                                                        | Non-Critical |
+| [N-06](#n-06-incorrect-logical-natspec-comment-should-be-corrected) | Incorrect logical natspec comment should be corrected                                                                                     | Non-Critical |
+| [N-07](#n-07-settokenuri-function-does-not-check-if-tokenid-exists) | setTokenURI() function does not check if tokenId exists                                                                                   | Non-Critical |
+| [N-08](#n-08-do-not-hardcode-string-in-function-contracturi) | Do not hardcode string in function contractURI()                                                                                          | Non-Critical |
+| [N-09](#n-09-in-83-years-typecast-to-uint32-would-break-in-function-_replenishdailyallowance) | In 83 years, typecast to uint32 would break in function _replenishDailyAllowance()                                                        | Non-Critical |
+| [N-10](#n-10-function-viewfighterinfo-does-not-return-every-data-of-the-fighter) | Function viewFighterInfo() does not return every data of the fighter                                                                      | Non-Critical |
+| [N-11](#n-11-reroll-cost-of-1000-nrn-cannot-be-changed-in-the-future) | Reroll cost of 1000 NRN cannot be changed in the future                                                                                   | Non-Critical |
+| [N-12](#n-12-there-can-only-be-255-generations-following-which-incrementgeneration-would-revert) | There can only be 255 generations following which incrementGeneration() would revert                                                      | Non-Critical |
+| [N-13](#n-13-do-not-hardcode-generation-to-0-in-constructor) | Do not hardcode generation to 0 in constructor                                                                                            | Non-Critical |
 
 ## Findings
 

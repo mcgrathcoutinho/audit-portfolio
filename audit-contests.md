@@ -10,7 +10,7 @@
 
 | Contests                                                                                              | Findings      | Ranking | Markdown Report                        | PDF Report                              |
 |-------------------------------------------------------------------------------------------------------|---------------|---------|----------------------------------------|-----------------------------------------|
-| [Munchables](https://code4rena.com/audits/2024-05-munchables#top)                                     | 2H, 2M, 7L    | 6th     |                                        |                                         |
+| [Munchables](https://code4rena.com/audits/2024-05-munchables#top)                                     | 2H, 2M, 7L    | #6     |                                        |                                         |
 | [DYAD](https://code4rena.com/audits/2024-04-dyad#top)                                                 | 3H, 3M, 7L    | #16     |                                        |                                         |
 | [Taiko](https://code4rena.com/audits/2024-03-taiko#top)                                               | 2H, 2M, 23L   | #5      | [Link](./code4rena/2024-03-taiko.md)   | [Link](./code4rena/2024-03-taiko.pdf)   |
 | [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top)                                         | 8H, 4M, 18L   | #10     | [Link](./code4rena/2024-02-aiarena.md) | [Link](./code4rena/2024-02-aiarena.pdf) |

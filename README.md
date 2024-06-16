@@ -4,7 +4,7 @@
 
 I'm an independent security researcher specializing in smart contract security.
 
-Currently, I am a warden on [Code4rena](https://code4rena.com/), where I've disclosed 29 High-severity and 28 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
+Currently, I am a warden on [Code4rena](https://code4rena.com/), where I've disclosed 29 High-severity and 29 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
 
 For private security reviews or consulting, please reach out to me on:
  - Twitter - [@MrPotatoMagic](https://twitter.com/MrPotatoMagic)
@@ -19,6 +19,7 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 | Contests                                                                                                                                                                     | Protocol Type                                    | Ranking | Markdown Report                           | PDF Report                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---------|-------------------------------------------|--------------------------------------------|
 | [OpenDollar](https://code4rena.com/contests/2023-10-open-dollar#top)                                                                                                         | Lending, NFT                                     | 2nd     | [Link](./code4rena/2023-10-opendollar.md) | [Link](./code4rena/2023-10-opendollar.pdf) |
+| [Metrom](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                                                          | Campaigns, LP Rewards                            | 2nd     |                                           |                                            |
 | [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top)                                                                                          | NFT, Auction                                     | 4th     | [Link](./code4rena/2023-12-revolution.md) | [Link](./code4rena/2023-12-revolution.pdf) |
 | [MorpheusAI](https://www.codehawks.com/contests/clrzgrole0007xtsq0gfdw8if)                                                                                                   | Cross-chain bridge, LayerZero, Rewards           | 4th     | [Link](./codehawks/2024-01-morpheusai.md) | [Link](./codehawks/2024-01-morpheusai.pdf) |
 | [Taiko](https://code4rena.com/audits/2024-03-taiko#top)                                                                                                                      | Type 1 ZK-EVM, Based Contestable Rollups, Bridge | 5th     | [Link](./code4rena/2024-03-taiko.md)      | [Link](./code4rena/2024-03-taiko.pdf)      |

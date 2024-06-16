@@ -33,6 +33,13 @@
 | [Puffer Finance](https://immunefi.com/boost/pufferfinance-boost/) | 1L       | #12     |                 |            |
 | Overall                                                           | 1L       |         |                 |            |
 
+## Hats Finance
+
+| Contests                                                                                                            | Findings | Ranking | Markdown Report | PDF Report |
+|---------------------------------------------------------------------------------------------------------------------|----------|---------|-----------------|------------|
+| [Metrom](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard) | 1M       | #2      |                 |            |
+| Overall                                                                                                             | 1M       |         |                 |            |
+
 # 2023
 
 ## Code4rena

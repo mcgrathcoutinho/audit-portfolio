@@ -4,7 +4,7 @@
 
 I'm an independent security researcher specializing in smart contract security.
 
-Currently, I am a warden on [Code4rena](https://code4rena.com/), where I've disclosed 29 High-severity and 29 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
+Currently, I am a warden on [Code4rena](https://code4rena.com/), where I've disclosed 33 High-severity and 37 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
 
 For private security reviews or consulting, please reach out to me on:
  - Twitter - [@MrPotatoMagic](https://twitter.com/MrPotatoMagic)

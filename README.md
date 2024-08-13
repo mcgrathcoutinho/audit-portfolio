@@ -4,13 +4,19 @@
 
 I'm an independent security researcher specializing in smart contract security.
 
-Currently, I am a warden on [Code4rena](https://code4rena.com/), where I've disclosed 33 High-severity and 37 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
+With over a year of expertise, I've disclosed 41 High-severity and 42 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
 
 For private security reviews or consulting, please reach out to me on:
  - Twitter - [@MrPotatoMagic](https://twitter.com/MrPotatoMagic)
  - Discord - [@mrpotatomagic](https://discord.com/users/763818501004722187)
 
 In case you prefer an intermediary, you can request a quote on [Code4rena](https://code4rena.com/@MrPotatoMagic) or [Cantina](https://cantina.xyz/u/MrPotatoMagic).
+
+## Private Audits
+
+| Protocol | Type          | Report |
+|----------|---------------|--------|
+| Alixa    | Yield Farming |  [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)   |
 
 ## Audit Contests
 

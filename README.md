@@ -16,7 +16,7 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 
 | Protocol | Type          | Report |
 |----------|---------------|--------|
-| Alixa    | Yield Farming |  [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)   |
+| [Alixa](https://alixa.io/)    | Yield Farming |  [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)   |
 
 ## Audit Contests
 

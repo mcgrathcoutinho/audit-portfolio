@@ -10,6 +10,7 @@
 
 | Contests                                                                                              | Findings      | Ranking | Markdown Report                        | PDF Report                              |
 |-------------------------------------------------------------------------------------------------------|---------------|---------|----------------------------------------|-----------------------------------------|
+| [Munchables](https://code4rena.com/audits/2024-07-munchables#top)                                     | 4H, 1M        | #3      |                                        |                                         |
 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig#top)                                         | 1H, 1M, 8L    | #8      |                                        |                                         |
 | [Munchables](https://code4rena.com/audits/2024-05-munchables#top)                                     | 2H, 2M, 7L    | #6      |                                        |                                         |
 | [Noya](https://code4rena.com/audits/2024-04-noya#top)                                                 | 3H, 7M, 3L    | #13     |                                        |                                         |
@@ -19,7 +20,7 @@
 | [Althea Liquid Infrastructure](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | 1H, 4L        | #7      | [Link](./code4rena/2024-02-althea.md)  | [Link](./code4rena/2024-02-althea.pdf)  |
 | [Decent](https://code4rena.com/audits/2024-01-decent#top)                                             | 3H, 2M        | #9      | [Link](./code4rena/2024-01-decent.md)  | [Link](./code4rena/2024-01-decent.pdf)  |
 | [Curves](https://code4rena.com/audits/2024-01-curves#top)                                             | 2H, 3M, 9L    | #17     |                                        |                                         |
-| Overall                                                                                               | 25H, 24M, 79L |         |                                        |                                         |
+| Overall                                                                                               | 29H, 25M, 79L |         |                                        |                                         |
 
 ## Codehawks
 

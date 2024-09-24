@@ -43,6 +43,13 @@
 | [Metrom](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard) | 1M       | #2      |                 |            |
 | Overall                                                                                                             | 1M       |         |                 |            |
 
+## Secure3
+
+| Contests                                                      | Findings | Ranking | Markdown Report | PDF Report |
+|---------------------------------------------------------------|----------|---------|-----------------|------------|
+| [Zeek Network](https://app.secure3.io/f1da07fd4c?tab=winners) | 2M, 8L   | #4      |                 |            |
+| Overall                                                       | 2M, 8L   |         |                 |            |
+
 # 2023
 
 ## Code4rena

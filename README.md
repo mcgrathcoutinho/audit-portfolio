@@ -4,7 +4,7 @@
 
 I'm an independent security researcher specializing in smart contract security.
 
-With over a year of expertise, I've disclosed 49 High-severity and 50 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
+With over a year of expertise, I've disclosed 49 High-severity and 51 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
 
 For private security reviews or consulting, please reach out to me on:
  - Twitter - [@MrPotatoMagic](https://twitter.com/MrPotatoMagic)

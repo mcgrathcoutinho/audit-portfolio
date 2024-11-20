@@ -14,9 +14,12 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 
 ## Private Audits
 
-| Protocol | Type          | Report |
-|----------|---------------|--------|
-| [Alixa](https://alixa.io/)    | Yield Farming |  [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)   |
+| Protocol                                    | Type             | Report                                                                                 |
+|---------------------------------------------|------------------|----------------------------------------------------------------------------------------|
+| [Euler Finance](https://app.euler.finance/) | Rewards, Vesting | [Link](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf) |
+| [Alixa](https://alixa.io/)                  | Yield Farming    | [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)                                |
+| [Gummi](https://gummi.fi/)                  | Lending, Auction | Undisclosed                                                                            |
+| [JackToken](https://www.jacktoken.com/)     | Staking, Vesting | Undisclosed                                                                            |
 
 ## Audit Contests
 
@@ -25,6 +28,7 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 | Contests                                                                                                                                                                     | Protocol Type                                    | Ranking | Markdown Report                           | PDF Report                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---------|-------------------------------------------|--------------------------------------------|
 | [Phi](https://code4rena.com/audits/2024-08-phi)                                                                                                                              | Identity Layer, Bonding Curve, Rewards           | 1st     |                                           |                                            |
+| [Ramses Exchange](https://code4rena.com/audits/2024-10-ramses-exchange)                                                                                                      | Liquidity Mining, Governance, Uniswap V3         | 2nd     |                                           |                                            |
 | [OpenDollar](https://code4rena.com/contests/2023-10-open-dollar#top)                                                                                                         | Lending, NFT                                     | 2nd     | [Link](./code4rena/2023-10-opendollar.md) | [Link](./code4rena/2023-10-opendollar.pdf) |
 | [Metrom](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                                                          | Campaigns, LP Rewards                            | 2nd     |                                           |                                            |
 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top)                                                                                                            | NFT, Rewards, Staking                            | 3rd     |                                           |                                            |

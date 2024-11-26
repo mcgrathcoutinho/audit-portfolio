@@ -19,7 +19,7 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 | [Euler Finance](https://app.euler.finance/) | Rewards, Vesting | [Link](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf) |
 | [Alixa](https://alixa.io/)                  | Yield Farming    | [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)                                |
 | [Gummi](https://gummi.fi/)                  | Lending, Auction | Undisclosed                                                                            |
-| [JackToken](https://www.jacktoken.com/)     | Staking, Vesting | Undisclosed                                                                            |
+| [JackToken](https://www.jacktoken.com/)     | Staking, Vesting | [Link](https://docsend.com/view/asm4t4v27mbysgbg)                                                                            |
 
 ## Audit Contests
 

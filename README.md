@@ -4,7 +4,7 @@
 
 I'm an independent security researcher specializing in smart contract security.
 
-With over a year of expertise, I've disclosed 49 High-severity and 51 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
+With over a year of expertise, I've disclosed 51 High-severity and 56 Medium-severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
 
 For private security reviews or consulting, please reach out to me on:
  - Twitter - [@MrPotatoMagic](https://twitter.com/MrPotatoMagic)
@@ -28,6 +28,7 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 | Contests                                                                                                                                                                     | Protocol Type                                    | Ranking | Markdown Report                           | PDF Report                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---------|-------------------------------------------|--------------------------------------------|
 | [Phi](https://code4rena.com/audits/2024-08-phi)                                                                                                                              | Identity Layer, Bonding Curve, Rewards           | 1st     |                                           |                                            |
+| [Ethena Labs Invitational](https://x.com/code4rena/status/1862568944403718177)                                                                                               | Stablecoin, Real World Assets (RWA), Vault       | 1st     |                                           |                                            |
 | [Ramses Exchange](https://code4rena.com/audits/2024-10-ramses-exchange)                                                                                                      | Liquidity Mining, Governance, Uniswap V3         | 2nd     |                                           |                                            |
 | [OpenDollar](https://code4rena.com/contests/2023-10-open-dollar#top)                                                                                                         | Lending, NFT                                     | 2nd     | [Link](./code4rena/2023-10-opendollar.md) | [Link](./code4rena/2023-10-opendollar.pdf) |
 | [Metrom](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                                                          | Campaigns, LP Rewards                            | 2nd     |                                           |                                            |

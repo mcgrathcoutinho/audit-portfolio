@@ -14,12 +14,18 @@ In case you prefer an intermediary, you can request a quote on [Code4rena](https
 
 ## Private Audits
 
-| Protocol                                    | Type             | Report                                                                                 |
-|---------------------------------------------|------------------|----------------------------------------------------------------------------------------|
-| [Euler Finance](https://app.euler.finance/) | Rewards, Vesting | [Link](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf) |
-| [Alixa](https://alixa.io/)                  | Yield Farming    | [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)                                |
-| [Gummi](https://gummi.fi/)                  | Lending, Auction | Undisclosed                                                                            |
-| [JackToken](https://www.jacktoken.com/)     | Staking, Vesting | [Link](https://docsend.com/view/asm4t4v27mbysgbg)                                                                            |
+| Protocol                                            | Type                                  | Report                                                                                 |
+|-----------------------------------------------------|---------------------------------------|----------------------------------------------------------------------------------------|
+| [Euler Finance](https://app.euler.finance/)         | Rewards, Vesting                      | [Link](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf) |
+| [Alixa](https://alixa.io/)                          | Yield Farming                         | [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)                                |
+| [Gummi](https://gummi.fi/)                          | Lending, Auction                      | Undisclosed                                                                            |
+| [Resolv Labs](https://resolv.xyz/)                  | Stablecoin Exchange                   | Undisclosed                                                                            |
+| [Lista DAO](https://lista.org/)                     | Rewards, PancakeSwap Integration      | Undisclosed                                                                            |
+| [Metropolis Exchange](https://metropolis.exchange/) | Vaults, TraderJoe Auto-Pools fork     | Undisclosed                                                                            |
+| [JackToken](https://www.jacktoken.com/)             | Staking, Vesting                      | [Link](https://docsend.com/view/asm4t4v27mbysgbg)                                      |
+| Fundraiser                                          | Fund Raiser                           | Undisclosed                                                                            |
+| BuyBurner                                           | Buy & Burn Mechanism, Uniswap V2      | Undisclosed                                                                            |
+| PowerX                                              | Commission, Referral & Payment System | Undisclosed                                                                            |
 
 ## Audit Contests
 
